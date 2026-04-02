@@ -40,7 +40,7 @@ Result of The Photo Binwalk Kali Linux:
 ![Nmap Scan Results](screenshots/doggo.png)
 
 
-# Images 4: solitaire.jpg
+# Images 4: solitaire.exe
 
 ![Nmap Scan Results](screenshots/solitaire.exe)
 
@@ -52,5 +52,9 @@ Result of The Photo File Checker Type:
 
 # Images 5: rubiks.jpg
 
+![Nmap Scan Results](screenshots/rubiks.jpg)
 
+Result of The Photo File Checker Type:
+
+![Nmap Scan Results](screenshots/rubikkube.png)
 
