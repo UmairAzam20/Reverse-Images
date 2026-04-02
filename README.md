@@ -7,6 +7,7 @@ Reverse image search allows users (or attackers, in ethical hacking contexts) to
 - Metadata or contextual details (date, location, person, or object recognition)
   
 # Images 1: Ocean.jpg
+![Nmap Scan Results](screenshots/ocean.jpg)
 
 
 # Images 2: computer.jpg
