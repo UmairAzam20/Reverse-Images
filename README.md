@@ -22,9 +22,11 @@ Result of The Photo using EXIF.tools:
 Result of The Photo using Hexeditor and String Extractor:
 
 HEXEDITOR:
+
 ![Nmap Scan Results](screenshots/computerpunya.png)
 
 STRING EXCTRACTOR:
+
 ![Nmap Scan Results](screenshots/stringexctrator.png)
 
 
