@@ -42,7 +42,11 @@ Result of The Photo Binwalk Kali Linux:
 
 # Images 4: solitaire.jpg
 
-![Nmap Scan Results](screenshots/solitaire.jpg)
+![Nmap Scan Results](screenshots/solitaire.exe)
+
+Result of The Photo File Checker Type:
+
+![Nmap Scan Results](screenshots/solitares.png)
 
 
 
