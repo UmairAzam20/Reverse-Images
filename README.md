@@ -33,8 +33,17 @@ STRING EXCTRACTOR:
 
 # Images 3: dog.jpg
 
+![Nmap Scan Results](screenshots/dog.jpg)
+
+Result of The Photo Binwalk Kali Linux:
+
+![Nmap Scan Results](screenshots/doggo.png)
+
 
 # Images 4: solitaire.jpg
+
+![Nmap Scan Results](screenshots/solitaire.jpg)
+
 
 
 # Images 5: rubiks.jpg
