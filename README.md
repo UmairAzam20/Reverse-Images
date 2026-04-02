@@ -9,6 +9,12 @@ Reverse image search allows users (or attackers, in ethical hacking contexts) to
 # Images 1: Ocean.jpg
 ![Nmap Scan Results](screenshots/ocean.jpg)
 
+Photo of The Result using EXIF.tools:
+
+![Nmap Scan Results](screenshots/oceanpunya1.png)
+![Nmap Scan Results](screenshots/oceanpunya2.png)
+
+
 
 # Images 2: computer.jpg
 
