@@ -58,3 +58,11 @@ Result of The Photo File Checker Type:
 
 ![Nmap Scan Results](screenshots/rubikkube.png)
 
+
+## Tool Used
+
+1. EXIF.tool
+2. Hexeditor
+3. String Extractor
+4. Binwalk
+5. Online File Checker Type
